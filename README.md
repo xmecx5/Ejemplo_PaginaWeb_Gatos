@@ -1,6 +1,6 @@
 # Descripción de la página web
 
-En esta página **web**, encontrás curiosidades de estos animales tan populares de internet: *los gatos*. 
+En esta página **web**, encontrás curiosidades sobre estos animales tan populares de internet: *los gatos*. 
 
 ### También habrá:
 
